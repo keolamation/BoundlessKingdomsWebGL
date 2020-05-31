@@ -1,7 +1,7 @@
 {
 "companyName": "Keolamation",
 "productName": "BoundlessKingdomsRPG",
-"productVersion": "0.1",
+"productVersion": "0.14",
 "dataUrl": "BoundlessKingdomTestBuild.data.unityweb",
 "wasmCodeUrl": "BoundlessKingdomTestBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "BoundlessKingdomTestBuild.wasm.framework.unityweb",
