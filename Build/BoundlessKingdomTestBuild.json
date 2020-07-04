@@ -1,9 +1,9 @@
 {
 "companyName": "Keolamation",
 "productName": "BoundlessKingdomsRPG",
-"productVersion": "0.15",
+"productVersion": "0.2a",
 "dataUrl": "BoundlessKingdomTestBuild.data.unityweb",
-"wasmCodeUrl": "BoundlessKingdomTestBuild.wasm",
+"wasmCodeUrl": "BoundlessKingdomTestBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "BoundlessKingdomTestBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
